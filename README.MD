@@ -1,4 +1,19 @@
-> **Note:** This repository will be released upon publication of the paper.
+
+
+
+
+
+```
+llm_trajectory_toolkit/
+├── capture/               # Hook-based hidden state extraction
+├── geometry/              # 7 geometric feature computation
+├── prompts/               # Prompt generation + dataset loading
+├── models/                # Model adapters + device-specific loaders
+├── analysis/              # Statistical tests + ML classification
+├── storage_backend.py     # HDF5 persistence
+├── system.py              # Hardware detection
+├── api.py                 # High-level TrajectoryAnalyzer
+```
 
 
 ## Citation
