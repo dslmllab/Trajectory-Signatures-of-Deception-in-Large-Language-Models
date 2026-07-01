@@ -1,7 +1,9 @@
+# Trajectory Signatures of Deception in Large Language Models
 
 
+## Dataset for the paper:
 
-
+https://huggingface.co/datasets/dSLLab/llm-deception-trajectories
 
 ```
 llm_trajectory_toolkit/
